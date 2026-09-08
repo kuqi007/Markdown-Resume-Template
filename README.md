@@ -61,4 +61,7 @@
 
 **好的简历是敲门砖，同时也不要在简历上花费过多的精力，好的简历以及面试技巧都是锦上添花**，真的求得心得的offer靠的还是真才实学。
 
+## AI资源 
+
+* [ChatGPT Plus、Pro，Claude Pro充值教程](https://github.com/youngyangyang04/gpt-daichong)
 
